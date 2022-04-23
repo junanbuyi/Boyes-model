@@ -1,1 +1,1 @@
-# Boyes-model
+# model
